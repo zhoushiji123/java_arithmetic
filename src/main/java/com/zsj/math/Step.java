@@ -1,4 +1,4 @@
-package com.zsj;
+package com.zsj.math;
 
 /**
  * Created by zsj on 2017/5/7.
